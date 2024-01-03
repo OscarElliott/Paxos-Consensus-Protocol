@@ -8,9 +8,8 @@ PY = python3
 # Directory paths
 LIB_DIR = lib
 
-# Path to support tools
+# Path to support tools - you may need to change this to build
 JAVA_HOME   = C:\Program Files\Java\jdk-20
-JUNIT_HOME  = C:\Program Files\Java\jar_files\*
 
 # all - Perform all tasks for a complete build
 all: Tuple Config Role Acceptor CouncilMember Proposer RequestEnqueuer Server Main
