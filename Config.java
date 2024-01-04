@@ -8,7 +8,7 @@ public class Config
     /*
      * Server infomation accessible across all files
      */
-    public static final int Server_Port = 5000;
+    public static final int Server_Port = 5001;                   // This may need to be changed depending on which ports are currently used on your PC
     public static final String serverAddress = "127.0.0.1";
     
 
